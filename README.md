@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manohar Sharma</h1>
-<h3 align="center">A passionate frontend Linux/Devops engineer from India</h3>
+<h3 align="center">A passionate Linux/Devops engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani19n&label=Profile%20views&color=0e75b6&style=flat" alt="mani19n" /> </p>
 
